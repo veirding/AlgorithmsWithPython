@@ -1,2 +1,3 @@
 # AlgorithmsWithPython
-Algo and example from the Introduction to Algorithms book
+
+Algo and examples from the Introduction to Algorithms book rev. 3.
